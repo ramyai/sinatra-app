@@ -1,4 +1,4 @@
-Test to see if you have your rake commands by typing: `rake` into terminal.
+sTest to see if you have your rake commands by typing: `rake` into terminal.
 
 ```
  $ rake
